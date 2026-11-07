@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.DominicParosh/ai-engineering",
+  "title": "AI Engineering by Domi",
+  "description": "Search free AI engineering lessons and projects and read their original Markdown.",
+  "version": "1.0.0",
+  "websiteUrl": "https://ai-engineering-domi.vercel.app/docs",
+  "repository": {
+    "url": "https://github.com/DominicParosh/ai-engineering",
+    "source": "github"
+  },
+  "remotes": [{ "type": "streamable-http", "url": "https://ai-engineering-domi.vercel.app/mcp" }]
+}
